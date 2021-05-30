@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Food Factory</string>
+    <string name="display_product">Display Product</string>
+    <string name="availability">Availability</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="search">Search</string>
+    <string name="recipe">Recipe</string>
+    <string name="textviewReg">TextView</string>
+    <string name="name">Name :</string>
+    <string name="weight">Weight :</string>
+    <string name="price">Price :</string>
+    <string name="description">Description :</string>
+    <string name="register_product_string">Register Product</string>
+    <string name="register_product">Register Product</string>
+    <string name="submitReg">update</string>
+    <string name="cancelReg">Cancel</string>
+    <string name="addD">ADD TO KITCHEN</string>
+    <string name="saveA">save</string>
+    <string name="keyword">Keyword</string>
+    <string name="submitr">submit</string>
+</resources>
